@@ -30,25 +30,35 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+ ![image](https://github.com/user-attachments/assets/bb2c37bd-2101-4302-9b91-87ebb9bb381f)
 
 ***
 
 #### #2 [Accounts] Create the accounts and add the screenshot here
 	- GitHub (with Personal Mail ID)
+ ![image](https://github.com/user-attachments/assets/d165b78e-1cb9-4915-8f66-69962a2b8d41)
+
 	- AWS Free Tier Account (with Personal Mail ID)
+ ![image](https://github.com/user-attachments/assets/0a5f56c7-95f1-4a9f-95ed-a3c71861bba1)
+
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+ ![image](https://github.com/user-attachments/assets/47169c86-ac3e-48a2-be41-812a647b069b)
+
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+> https://sanjaydharsh.github.io/22CB049-SANJAY-K/
+> ![image](https://github.com/user-attachments/assets/7488e21a-d512-4f35-b0b9-b798cebdf430)
+
 
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/391afa24-9b16-4c6e-bcd0-8ec82fa6a334)
+> ![image](https://github.com/user-attachments/assets/fc8880f7-b274-496a-ae1a-73fe42ec7081)
+
+
 
 ***
 
@@ -80,16 +90,24 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+  
+> https://dev.to/sanjaydharsh/synopsys-black-duck-1gd6
 
 ***
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
+ > https://github.com/sanjaydharsh/developer-cards-react-app.git
+ 
 	- Github Actions Pipeline for Github Pages
-	- Github Pages URL
- 	- Github Actions for S3
- 	- AWS CloudFront URL
-> Add your answer here!
+ >![image](https://github.com/user-attachments/assets/0a6ea6ac-5057-4ae6-bd68-b44ab8b40ab8)
 
+	- Github Pages URL
+ >https://sanjaydharsh.github.io/developer-cards-react-app/
+ >![image](https://github.com/user-attachments/assets/51def59a-151b-44a1-afed-2a88bd5201a5)
+
+ 	- Github Actions for S3
+  
+ 	- AWS CloudFront URL
+>
 ***
